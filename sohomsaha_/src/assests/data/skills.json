@@ -1,0 +1,97 @@
+[
+    {
+       "field":"Frontend",
+       "yearExp":"2 years",
+       "body":[
+          {
+             "skill":"HTML/CSS/Tailwind CSS/AntDesign"
+          },
+          {
+             "skill":"Using the libraries, frameworks like TaiwindCSS, Material UI, Bootstrap"
+          },
+          {
+             "skill":"Javascript, Typescript, C#"
+          },
+          {
+             "skill":"ReactJs, React Native"
+          },
+          {
+             "skill":"Figma, Mobile App Screen Development & Design, UI/UX practice"
+          }
+       ]
+    },
+    {
+       "field":"Backend",
+       "yearExp":">2 years",
+       "body":[
+          {
+             "skill":"NodeJs, ExpressJs"
+          },
+          {
+             "skill":"MySQL, MongoDB, Firebase, Docker"
+          },
+          {
+             "skill":"Restful API design"
+          },
+          {
+             "skill":"Git"
+          },
+          {
+             "skill":"NGINX"
+          },
+          {
+             "skill":"RASA Actions Server"
+          }
+       ]
+    },
+    {
+       "field":"Design",
+       "yearExp":"3 years",
+       "body":[
+          {
+             "skill":"UX/UI design with Sketch App, XD"
+          },
+          {
+             "skill":"Figma"
+          },
+          {
+             "skill":"Illustrator"
+          }
+       ]
+    },
+    {
+       "field":"Product Managment",
+       "yearExp":"< 1 Year",
+       "body":[
+          {
+             "skill":"Able to empathize with the end clients, make decisions based on the reverse order (clients -> engineers)"
+          },
+          {
+            "skill":"Product Roadmapping, Storyboarding, Gantt Chart Creation"
+         },
+          {
+             "skill":"Use Personas and User Interview experience"
+          },
+          {
+            "skill":"Understanding how to implement KPI's, and how to use the data to communicate with key stakeholders"
+         },
+         {
+            "skill":"Basic understanding of how to delegate and manage a team of engineers"
+         }
+
+          
+       ]
+    },
+    {
+       "field":"Education",
+       "yearExp":"2 years - present",
+       "body":[
+          {
+             "skill":"University of Waterloo - Computer Science"
+          },
+          {
+            "skill":"Wilfrid Laurier University - Business Administration"
+         }
+       ]
+    }
+ ]

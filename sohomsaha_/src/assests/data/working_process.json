@@ -1,0 +1,17 @@
+[
+    {
+       "time":"Jan 2022 - Apr. 2022",
+       "company":"Canada Startup Company",
+       "position":"Full Stack Developer/Product Owner",
+       "img":"https://i.postimg.cc/qM6Mt0w0/Screen-Shot-2022-09-08-at-8-51-41-PM.png",
+       "size":"8",
+       "body":"Led the development and design of the Immigrate.ai mobile app. We interns were tasked with creating a startup idea in the CSC Innovation labs. CSC being an immigration law firm, I understood the biggest pains in the process, and made a free to use app which does the $100+ hour standardized immigration consultation for free and through ML. "
+    },
+    {
+       "time":"May 2021 - Aug. 2021",
+       "company":"BTNX",
+       "position":"Sofware Developer",
+       "img":"https://i.postimg.cc/3Nv5wrTc/Screen-Shot-2022-09-08-at-8-54-39-PM.png",
+       "body":"Created key reporting software for Canada's #1 Covid-19 RapidTest supplier. Built an end-to-end module allowing different departments to retrieve key reports and data which was previosuly a tedious manual process."
+    }
+ ]

@@ -1,0 +1,66 @@
+[
+    {
+       "title":"KryptoKraken",
+       "time":"2021",
+       "category":"React | Redux | RapidAPI | AntDesign",
+       "link":"https://github.com/sohomsaha1/KryptoKraken",
+       "imgs":[
+          "https://i.postimg.cc/hjBj9YCv/Screen-Shot-2022-09-08-at-8-06-25-PM.png",
+          "https://i.postimg.cc/Wzp1ykcP/Screen-Shot-2022-09-08-at-8-06-59-PM.png",
+          "https://i.postimg.cc/FsRKg3xy/Screen-Shot-2022-09-08-at-8-07-43-PM.png",
+          "https://i.postimg.cc/Hk8sFmRj/Screen-Shot-2022-09-08-at-8-07-56-PM.png"
+       ],
+       "desc":"KryptoKraken, brings a simple crypto news platform for all your trading needs! Browse the top cryptos, trading platforms and see realtime news and crypto updates",
+       "tech":[
+          {
+             "backend":"NodeJs, Express"
+          },
+          {
+             "frontend":"ReactJs, TypeScript, AntDesign"
+          },
+          {
+             "REST API":"Bing News Search, Coinranking @RapidAPI"
+          }
+       ]
+    },
+    {
+       "title":"Immigrate.ai",
+       "time":"2022",
+       "category":"Mobile App | React Native Expo | Chatbot | Cross Platform",
+       "link":"https://play.google.com/store/apps/details?id=ai.immigrate&hl=en&gl=US",
+       "imgs":[
+        "https://i.postimg.cc/28ZnFsGF/Screen-Shot-2022-09-08-at-8-26-11-PM.png",
+        "https://i.postimg.cc/1z96SfQJ/Screen-Shot-2022-09-08-at-8-35-17-PM.png",
+        "https://i.postimg.cc/zBQRT7Rc/Screen-Shot-2022-09-08-at-8-29-20-PM.png",
+        "https://i.postimg.cc/fW38pg5k/Screen-Shot-2022-09-08-at-8-27-35-PM.png"
+       ],
+       "desc":"Immigrate.ai is an AI-driven platform designed to connect you with the immigration programs that are right for you. Immigrate.ai makes it easy to determine your eligibility, get answers to frequently asked immigration questions, and connect with qualified immigration professionals. Additionally, Immigrate.ai's smart immigration ai is completely free to use. Simply sign up and find the answers you need, within minutes.",
+       "tech":[
+         {
+            "backend":"Firebase, Docker, NGINX,  RASA Actions Server"
+         },
+         {
+            "frontend":"React Native, TypeScript, Expo"
+         },
+         {
+            "REST API":"Wordpress API"
+         }
+       ]
+    },
+    {
+        "title":"Capsule",
+        "time":"2020",
+        "category":"Social Media | React | MERN Stack",
+        "link":"https://github.com/sohomsaha1/Capsule-Social-Media-Application-",
+        "imgs":[
+         "https://i.postimg.cc/Z5P7jBHc/Screen-Shot-2022-09-08-at-8-44-00-PM.png"
+        
+        ],
+        "desc":"Capsule is a social media app, that lets you share fragments of your life to be archived forever!",
+        "tech":[
+         {
+            "Stack":"MongoDB, Express, Redux, Node.js"
+         }
+        ]
+     }
+ ]
